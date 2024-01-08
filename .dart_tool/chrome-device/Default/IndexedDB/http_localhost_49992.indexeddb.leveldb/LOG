@@ -1,0 +1,3 @@
+2024/01/08-12:10:05.829 2b78 Creating DB C:\Users\FAZALM~1\AppData\Local\Temp\flutter_tools.84415647\flutter_tools_chrome_device.36b777a2\Default\IndexedDB\http_localhost_49992.indexeddb.leveldb since it was missing.
+2024/01/08-12:10:05.854 2b78 Reusing MANIFEST C:\Users\FAZALM~1\AppData\Local\Temp\flutter_tools.84415647\flutter_tools_chrome_device.36b777a2\Default\IndexedDB\http_localhost_49992.indexeddb.leveldb/MANIFEST-000001
+2024/01/08-12:10:05.880 2b78 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
